@@ -1,5 +1,5 @@
 beautifulsoup4==4.9.3
-Flask==2.1.1
+Flask==2.3.2
 googlesearch_python==1.1.0
 numpy==1.21.4
 pandas==1.4.1
