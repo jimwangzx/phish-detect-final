@@ -4,7 +4,7 @@ googlesearch_python==1.1.0
 numpy==1.21.4
 pandas==1.4.1
 python_dateutil==2.8.2
-requests==2.25.1
+requests==2.31.0
 scikit_learn==1.0.2
 python_whois==0.7.3
 gunicorn==20.1.0
